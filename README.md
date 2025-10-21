@@ -4,3 +4,6 @@ Arena-based mobile action game developed in Unity.
 
 Arena-based action survival game built with Unity.  
 This repository contains early-stage screenshots and design progress of the project.
+**Developer:** Berkant Doğrusöz  
+**Engine:** Unity  
+**Platform:** Android (Mobile)
